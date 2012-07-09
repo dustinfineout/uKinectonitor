@@ -1,4 +1,4 @@
-uKinectonitor
+uKinectonitor [WIP - ON HOLD]
 
 This is an update to Brady Gaster's excellent demo application, The Kinectonitor, for Microsoft Kinect SDK Beta.
 
